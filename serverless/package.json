@@ -4,15 +4,15 @@
   "description": "Demo of trunk based 🌳 workflow with build once artifact promotion",
   "repository": {
     "type": "git",
-    "url": "git@github.com:clowdhaus/i-am-groot.git"
+    "url": "git@github.com:clowdhaus/trunk-based-artifact-promotion.git"
   },
   "author": "Clowd Haus, LLC",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/clowdhaus/i-am-groot/issues"
+    "url": "https://github.com/clowdhaus/trunk-based-artifact-promotion/issues"
   },
-  "homepage": "https://github.com/clowdhaus/i-am-groot/#readme",
+  "homepage": "https://github.com/clowdhaus/trunk-based-artifact-promotion/#readme",
   "dependencies": {
-    "serverless": "^2.41.2"
+    "serverless": "^2.53.0"
   }
 }
